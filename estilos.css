@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+body {
+  background-color: black !important;
+}
+
+.navbar {
+  background-color: black !important;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: blue !important;
+}
+
+h2 {
+  color: white !important;
+}
+
+h6 {
+  color: black !important;
+}
+
+.card-text {
+  color: black !important;
+}
+
+.container {
+  height: 70vh;
+  margin-top: 6vh;
+  width: 80vh;
+}
+
+.form-group {
+  color: white !important;
+}
+
+.navbar-brand {
+  color: blue !important;
+}
+
+ul a {
+  color: blue !important;
+}
+
+h5 {
+  color: white !important;
+}
+
+.jumbotron {
+  background-color: black !important;
+}
+
+.jumbotron a {
+  -webkit-box-align: center !important;
+      -ms-flex-align: center !important;
+          align-items: center !important;
+}
+
+.carousel-inner img {
+  width: 100% !important;
+  height: 100% !important;
+}
+/*# sourceMappingURL=estilos.css.map */

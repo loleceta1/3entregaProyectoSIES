@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+// Paletas de Colores//
+$color1: black;
+$color2:white;
+$color3:blue;
+
+body{
+    background-color: $color1 !important;
+}
+.navbar{
+    background-color: $color1 !important;
+}
+p{
+    color: $color2;
+    text-align: center;
+}
+h1{
+    color: $color3 !important;
+}
+h2{
+    color: $color2 !important;
+}
+h6{
+    color: $color1 !important;
+}
+.card-text{
+    color: $color1 !important;
+}
+.container{
+    height: 70vh;
+    margin-top: 6vh;
+    width: 80vh;
+}
+.form-group{
+    color: $color2 !important;
+}
+
+.navbar-brand{
+   
+    color: $color3 !important;
+   
+}
+ul a{
+    color: $color3 !important;
+   
+}
+h5{
+    color: $color2 !important;
+}
+.jumbotron{
+    background-color: $color1 !important;
+}
+.jumbotron a{
+    align-items: center !important;
+}
+.carousel-inner img {
+    width: 100% !important;
+    height: 100% !important;
+  }
